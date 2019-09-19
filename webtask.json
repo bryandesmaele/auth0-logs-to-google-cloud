@@ -7,9 +7,9 @@
   "type": "cron",
   "category": "log_export",
   "initialUrlPath": "/login",
-  "repository": "https://github.com/hongymagic/auth0-logs-to-google-cloud",
+  "repository": "https://github.com/bryandesmaele/auth0-logs-to-google-cloud",
   "logoUrl": "https://cloud.google.com/_static/772880e9e9/images/cloud/icons/favicons/apple-icon.png",
-  "docsUrl": "https://github.com/hongymagic/auth0-logs-to-google-cloud",
+  "docsUrl": "https://github.com/bryandesmaele/auth0-logs-to-google-cloud",
   "keywords": [
     "auth0",
     "extension"
